@@ -1,0 +1,21 @@
+p {color: black ;font-size:30px; font-family: typolino-Bold}
+body {
+   background-image: url(https://images.homedepot-static.com/productImages/8660edfe-56db-4cae-9929-f51b9e4ba47d/svn/chesapeake-wallpaper-3113-12043-64_1000.jpg);
+ }
+#TiggerWong {color: black; font-size: 50px; font-stretch: semi-expanded; font-weight: bolder; text-align: center; font-family: Modern_Sans_Light.otf}
+#tiggerboxpic {text-align: center}
+#brucepic {text-align: center}
+#friendtitle {color: black; font-size: 50px; font-stretch: semi-expanded; font-weight: bolder; text-align: center; font-family: messages}
+#instagram {font-size: 20px; text-align: center;}
+#rollingpic {text-align: center;}
+
+
+button {
+
+    height: 100px;
+    width: 104px;
+    padding: 0;
+    margin: 0;
+    vertical-align: top;
+    border-radius: 50%;
+}
